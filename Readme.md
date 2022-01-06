@@ -1,4 +1,5 @@
 ## Install
+
 ```
 git clone https://github.com/kunalganglani/bally.git
 cd into the folder
@@ -7,11 +8,13 @@ npm start
 ```
 
 ## Run the app
+
 ```
 npm start
 ```
 
 ## Quick Note
+
 ```
 Application uses the following:
 * Support es6
