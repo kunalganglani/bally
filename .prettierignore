@@ -2,3 +2,5 @@
 *.docx
 .prettierignore
 .husky/*
+*.png
+.DS_Store
